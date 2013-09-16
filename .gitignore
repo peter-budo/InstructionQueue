@@ -1,0 +1,19 @@
+#IntelliJ IDEA#
+###############
+*.iml
+*.ipr
+*.iws
+.idea
+target
+classes
+
+#Eclipse#
+#########
+.settings
+.classpath
+.project
+local.properties
+
+#Gradle#
+#########
+.gradle
